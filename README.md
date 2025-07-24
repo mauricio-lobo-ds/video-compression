@@ -45,7 +45,7 @@ pathlib2==2.3.7
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/video-compressor-pro.git
+git clone https://github.com/mauricio-lobo-ds/video-compression.git
 cd video-compressor-pro
 ```
 
